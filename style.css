@@ -622,6 +622,7 @@ main {
 .about__facts {
   display: grid;
   gap: 1rem;
+  margin-block: 0;
 }
 
 .about__fact dt {
