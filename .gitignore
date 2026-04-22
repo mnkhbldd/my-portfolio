@@ -1,9 +1,11 @@
-node_modules/
-.next/
-out/
-dist/
 .DS_Store
 *.log
 .env
 .env.*
 !.env.example
+
+# If you add a build toolchain later
+node_modules/
+.next/
+out/
+dist/
